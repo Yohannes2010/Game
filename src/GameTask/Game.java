@@ -12,7 +12,7 @@ public class Game extends JFrame {
     JButton nyttSpelButton = new JButton();
     JButton closeWindowButton = new JButton();
     JButton finishButton = new JButton();
-
+// Set Frame and Pane
     public Game() {
         jFrame.setPreferredSize(new Dimension(650, 670));
         jFrame.setBackground(Color.cyan);
