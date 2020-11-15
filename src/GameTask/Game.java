@@ -26,6 +26,12 @@ public class Game extends JFrame {
         jPanel.setBackground(Color.blue);
         jPanel.setLayout(new GridLayout(1, 0));
         jPanel.setEnabled(false);
+
+        nyttSpelButton.setText("New Game");
+        nyttSpelButton.setBackground(Color.YELLOW);
+        nyttSpelButton.setForeground(Color.BLACK);
+        nyttSpelButton.setSize(140,140);
+        nyttSpelButton.setHorizontalAlignment(0);
     }
 
     public static void main(String[] args) {
