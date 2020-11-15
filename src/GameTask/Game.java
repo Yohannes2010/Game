@@ -13,6 +13,8 @@ public class Game extends JFrame {
     JButton finishButton = new JButton();
     public Game(){
 
+
+
     }
 
     public static void main(String[] args) {
