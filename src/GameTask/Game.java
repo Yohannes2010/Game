@@ -32,6 +32,7 @@ public class Game extends JFrame {
         nyttSpelButton.setForeground(Color.BLACK);
         nyttSpelButton.setSize(140,140);
         nyttSpelButton.setHorizontalAlignment(0);
+        // add new button
     }
 
     public static void main(String[] args) {
